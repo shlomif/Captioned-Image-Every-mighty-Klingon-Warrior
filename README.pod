@@ -1,0 +1,23 @@
+=encoding utf8
+
+=head1 Captioned Image - “Every mighty Klingon Warrior”
+
+=head2 About
+
+This repository contains the sources for a captioned image. To view or
+edit it type:
+
+    inkscape ./Every-mighty-Klingon-Warrior.svg
+
+To build type C<make> .
+
+=head2 Image Credits
+
+B<TODO : FILL IN>
+
+=head2 Creator
+
+L<http://www.shlomifish.org/> - Shlomi Fish.
+
+=cut
+
