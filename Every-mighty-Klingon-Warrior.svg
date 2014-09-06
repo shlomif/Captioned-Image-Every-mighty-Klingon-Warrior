@@ -10,8 +10,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="633.85187"
-   height="581.13098"
+   width="490.77228"
+   height="441.39874"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
@@ -29,8 +29,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.2175729"
-     inkscape:cx="316.92593"
-     inkscape:cy="290.56548"
+     inkscape:cx="243.89091"
+     inkscape:cy="221.69936"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -42,10 +42,10 @@
      showguides="true"
      inkscape:guide-bbox="true"
      units="cm"
-     fit-margin-top="2"
-     fit-margin-bottom="2"
-     fit-margin-left="2"
-     fit-margin-right="2"
+     fit-margin-top="0"
+     fit-margin-bottom="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
      inkscape:snap-global="false">
     <inkscape:grid
        type="xygrid"
@@ -57,8 +57,8 @@
        units="cm"
        spacingx="1cm"
        spacingy="1cm"
-       originx="2.8887082cm"
-       originy="22.546649cm" />
+       originx="0.85067677cm"
+       originy="20.603094cm" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -76,14 +76,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(102.3558,-1270.1269)">
-    <image
-       y="1565.2397"
-       x="-31.489662"
-       id="image3957"
-       xlink:href="file:///home/shlomif/Docs/Images/Captioned-Images/Every-mighty-Klingon-Warrior/Sesame-Street--40th-dvd-booklet.jpg"
-       height="215.15202"
-       width="491.50986" />
+     transform="translate(30.142088,-1340.993)">
     <text
        xml:space="preserve"
        style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
@@ -106,54 +99,64 @@
          id="tspan3019"
          x="39.354107"
          y="453.04178" /></text>
-    <image
-       y="1340.993"
-       x="-30.142088"
-       id="image3111"
-       xlink:href="file:///home/shlomif/Docs/Images/Captioned-Images/Every-mighty-Klingon-Warrior/KlingonDeathRitual--CROPPED.jpg"
-       height="226.51015"
-       width="490.772" />
-    <text
-       xml:space="preserve"
-       style="font-size:42.4347496px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:2.12173772;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
-       x="246.18988"
-       y="1391.8027"
-       id="text3114"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3116"
-         x="246.18988"
+    <g
+       id="g3964">
+      <image
+         width="490.772"
+         height="215.15202"
+         xlink:href="file:///home/shlomif/Docs/Images/Captioned-Images/Every-mighty-Klingon-Warrior/Sesame-Street--40th-dvd-booklet.jpg"
+         id="image3957"
+         x="-30.1418"
+         y="1567.2397" />
+      <image
+         width="490.772"
+         height="226.51015"
+         xlink:href="file:///home/shlomif/Docs/Images/Captioned-Images/Every-mighty-Klingon-Warrior/KlingonDeathRitual--CROPPED.jpg"
+         id="image3111"
+         x="-30.142088"
+         y="1340.993" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3114"
          y="1391.8027"
-         style="font-size:42.4347496px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;stroke-width:2.12173772;font-family:Arial;-inkscape-font-specification:Arial Bold">Every</tspan><tspan
-         sodipodi:role="line"
          x="246.18988"
-         y="1444.8462"
-         id="tspan3894"
-         style="font-size:42.4347496px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;stroke-width:2.12173772;font-family:Arial;-inkscape-font-specification:Arial Bold">mighty</tspan><tspan
-         sodipodi:role="line"
-         x="246.18988"
-         y="1497.8896"
-         id="tspan3118"
-         style="font-size:42.4347496px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;stroke-width:2.12173772;font-family:Arial;-inkscape-font-specification:Arial Bold">Klingon</tspan><tspan
-         sodipodi:role="line"
-         x="246.18988"
-         y="1550.9331"
-         id="tspan3120"
-         style="font-size:42.4347496px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;stroke-width:2.12173772;font-family:Arial;-inkscape-font-specification:Arial Bold">warrior</tspan><tspan
-         sodipodi:role="line"
-         x="246.18988"
-         y="1603.9764"
-         style="font-size:42.4347496px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;stroke-width:2.12173772;font-family:Arial;-inkscape-font-specification:Arial Bold"
-         id="tspan3960" /><tspan
-         sodipodi:role="line"
-         x="246.18988"
-         y="1657.0199"
-         id="tspan3122"
-         style="font-size:42.4347496px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;stroke-width:2.12173772;font-family:Arial;-inkscape-font-specification:Arial Bold">has Watched</tspan><tspan
-         sodipodi:role="line"
-         x="246.18988"
-         y="1710.0634"
-         id="tspan3124"
-         style="font-size:42.4347496px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;stroke-width:2.12173772;font-family:Arial;-inkscape-font-specification:Arial Bold">Sesame Street!</tspan></text>
+         style="font-size:42.4347496px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:2.12173772;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         xml:space="preserve"><tspan
+           style="font-size:42.4347496px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;stroke-width:2.12173772;font-family:Arial;-inkscape-font-specification:Arial Bold"
+           y="1391.8027"
+           x="246.18988"
+           id="tspan3116"
+           sodipodi:role="line">Every</tspan><tspan
+           style="font-size:42.4347496px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;stroke-width:2.12173772;font-family:Arial;-inkscape-font-specification:Arial Bold"
+           id="tspan3894"
+           y="1444.8462"
+           x="246.18988"
+           sodipodi:role="line">mighty</tspan><tspan
+           style="font-size:42.4347496px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;stroke-width:2.12173772;font-family:Arial;-inkscape-font-specification:Arial Bold"
+           id="tspan3118"
+           y="1497.8896"
+           x="246.18988"
+           sodipodi:role="line">Klingon</tspan><tspan
+           style="font-size:42.4347496px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;stroke-width:2.12173772;font-family:Arial;-inkscape-font-specification:Arial Bold"
+           id="tspan3120"
+           y="1550.9331"
+           x="246.18988"
+           sodipodi:role="line">warrior</tspan><tspan
+           id="tspan3962"
+           style="font-size:42.4347496px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;stroke-width:2.12173772;font-family:Arial;-inkscape-font-specification:Arial Bold"
+           y="1603.9764"
+           x="246.18988"
+           sodipodi:role="line" /><tspan
+           style="font-size:42.4347496px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;stroke-width:2.12173772;font-family:Arial;-inkscape-font-specification:Arial Bold"
+           id="tspan3122"
+           y="1657.0199"
+           x="246.18988"
+           sodipodi:role="line">has Watched</tspan><tspan
+           style="font-size:42.4347496px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;stroke-width:2.12173772;font-family:Arial;-inkscape-font-specification:Arial Bold"
+           id="tspan3124"
+           y="1710.0634"
+           x="246.18988"
+           sodipodi:role="line">Sesame Street!</tspan></text>
+    </g>
   </g>
 </svg>
