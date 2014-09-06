@@ -1,4 +1,4 @@
-SVG = evolution-of-girls-with-weapons.svg
+SVG = Every-mighty-Klingon-Warrior.svg
 PNG = $(SVG).png
 JPEG = $(SVG).jpg
 
