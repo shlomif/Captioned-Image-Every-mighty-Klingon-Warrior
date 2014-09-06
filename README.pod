@@ -13,7 +13,11 @@ To build type C<make> .
 
 =head2 Image Credits
 
-B<TODO : FILL IN>
+C<KlingonDeathRitual.jpg> taken from:
+L<http://en.memory-alpha.org/wiki/Klingon?oldid=1647807> .
+
+C<Sesame-Street--40th-dvd-booklet.jpg> taken from:
+L<http://muppet.wikia.com/wiki/File:40th-dvd-booklet.jpg> .
 
 =head2 Creator
 
