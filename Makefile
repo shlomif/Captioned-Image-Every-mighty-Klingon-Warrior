@@ -7,7 +7,7 @@ WIDTH = 400
 all: $(PNG) $(JPEG)
 
 $(PNG): $(SVG)
-	inkscape --export-png=$@ --export-width=800 $<
+	inkscape --export-png=$@ --export-width=$(WIDTH) $<
 	optipng $@
 
 $(JPEG): $(PNG)
