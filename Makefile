@@ -1,20 +1,21 @@
 SVG = Every-mighty-Klingon-Warrior.svg
 PNG = $(SVG).png
 JPEG = $(SVG).jpg
+WEBP = $(SVG).webp
 
 WIDTH = 400
 
-all: $(PNG) $(JPEG)
+all: $(PNG) $(JPEG) $(WEBP)
 
 $(PNG): $(SVG)
 	inkscape --export-png=$@ --export-width=$(WIDTH) $<
 	optipng $@
 
 $(JPEG): $(PNG)
-	convert $(PNG) $(JPEG)
+	gm convert $< $@
+
+$(WEBP): $(PNG)
+	gm convert $< $@
 
 clean:
 	rm -f $(PNG) $(JPEG)
-
-# upload: all
-#	rsync --progress -v -a --inplace human-hacking-field-guide-logo.svg hhfg-ad.svg hhfg-ad.svg.png $(__HOMEPAGE_REMOTE_PATH)/hhfg-graphics-demo/
